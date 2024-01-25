@@ -1,5 +1,5 @@
-###                                                             Hello there 👊🏿
-###                                                            I am Josiah Davis C
+###                                                    Hello there 👊🏿
+###                                                   I am Josiah Davis C
 
 I am a fullstack software developer and a certified ethical hacker, I always have a passion in programming and technology ever since I started, and I'd love to build interactive and dynamic websites with good user experience. 
 
