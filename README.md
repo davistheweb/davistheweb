@@ -3,12 +3,12 @@
 </h1>
 <h3 align="center">
     I am Josiah Davis Chimzuruoke, A passionate tech enthusiasm from Nigeria
-</h3> <br>
+</h3>
 <h3 align="center">
 <a href="https://git.io/typing-svg" ><img align="center" src="https://readme-typing-svg.herokuapp.com?font=poppins+Code&pause=1000&color=0EF&random=false&width=435&lines=I+am+Software+Developer;I+am+Certified+Ethical+Hacker" alt="Typing SVG" />
 </a>
 </h3>
-<img src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif" alt="coding">
+
 <h1>
 About Me 🫠
 </h1>
@@ -54,5 +54,7 @@ Tech stack/Skills, Os & Tools
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRa5fw6VuLdzFYW4YEdJpRQAxU9feDGbYWjQ&usqp=CAU" alt="image"  width="700px">
     
 
-
+<p>
+<img align="center" width="900px"  alt="[coding" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif)https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+</p>
 
