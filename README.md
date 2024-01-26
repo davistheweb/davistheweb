@@ -2,9 +2,9 @@
     Hello there 👊🏿 
 </h1>
 <h3 align="center">
-    I am Josiah Davis Chimzuruoke <br>
-    A passionate tech enthusiasm from Nigeria. <br>]
-    I am also known as davistheweb
+    I am Josiah Davis Chimzuruoke <br> <br>
+    A passionate tech enthusiast from Nigeria. <br><br>
+    And I am also known as davistheweb.
 </h3>
 <h3 align="center">
 <a href="https://git.io/typing-svg" ><img align="center" src="https://readme-typing-svg.herokuapp.com?font=poppins+Code&pause=1000&color=0EF&random=false&width=435&lines=I+am+Software+Developer;I+am+Certified+Ethical+Hacker" alt="Typing SVG" />
@@ -49,10 +49,13 @@ About Me 🫠
     }
 
 const bender = new Codebender();
+castLists();
 ```
 
 <div>
-<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRa5fw6VuLdzFYW4YEdJpRQAxU9feDGbYWjQ&usqp=CAU" alt="image" height="300px"  width="500px">
+<h2>Socials:</h2>
+    
+<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRa5fw6VuLdzFYW4YEdJpRQAxU9feDGbYWjQ&usqp=CAU" alt="image" height="300px"  width="400px">
     
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
