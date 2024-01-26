@@ -54,7 +54,7 @@ castLists();
 
 <h4>View my socials</h4>
 
-<p><a href="https://www.buymeacoffee.com/davistheweb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="davistheweb" /></a></p><br><br>
+<p><a href="https://twitter.com/davistheweb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="davistheweb" /></a></p><br><br>
 
 <br><br><div>
     
