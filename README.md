@@ -52,8 +52,11 @@ const bender = new Codebender();
 castLists();
 ```
 
-<div>
-<h2>Socials:</h2>
+<h4>View my socials</h4>
+
+<p><a href="https://www.buymeacoffee.com/davistheweb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="davistheweb" /></a></p><br><br>
+
+<br><br><div>
     
 <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRa5fw6VuLdzFYW4YEdJpRQAxU9feDGbYWjQ&usqp=CAU" alt="image" height="300px"  width="400px">
     
