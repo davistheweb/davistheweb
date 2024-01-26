@@ -2,7 +2,9 @@
     Hello there 👊🏿 
 </h1>
 <h3 align="center">
-    I am Josiah Davis Chimzuruoke, A passionate tech enthusiasm from Nigeria
+    I am Josiah Davis Chimzuruoke <br>
+    A passionate tech enthusiasm from Nigeria. <br>]
+    I am also known as davistheweb
 </h3>
 <h3 align="center">
 <a href="https://git.io/typing-svg" ><img align="center" src="https://readme-typing-svg.herokuapp.com?font=poppins+Code&pause=1000&color=0EF&random=false&width=435&lines=I+am+Software+Developer;I+am+Certified+Ethical+Hacker" alt="Typing SVG" />
@@ -30,31 +32,28 @@ About Me 🫠
 
 📧 Mail: josiahdave001@gmail.com
 
-Tech stack/Skills, Os & Tools
+<h2>Tech stack/Skills, Os & Tools:</h2>
 
-    <code>
-    class CodeSorcerer {
-        constructor() {
-        this.languages = ['HTML5', 'CSS3', 'SASS', 'React', 'NodeJS', 'Python'];
-        this.tools = ['VS Code', 'Git', 'Docker'];
-            this.interests = ['Web Development', 'Open Source', 'Magical Realms'];
+```javascript
+
+    function CodeBender(){
+        msg() {
+            bender.coding = ['HTML5', 'CSS3', 'Bootstrap', 'TailWind Css', 'JavaScript', 'React', 'Php', 'Python','Sql'];
+            bender.tools&os = ['Metasploit', 'Nmap', 'Burp Suite', 'TMAC', '& etc of ethical hacking tools' 'Git', 'Docker', 'Mysql', 'Linux',];
+            bender.interests = ['Web Development', 'Mobile App Development', 'Ethical Hacking', 'Open Source', 'AI'];
         }
 
-        castSpell() {
-        console.log("Abracadabra! Turning ideas into interactive spells!");
+        castLists() {
+            console.log("Transforming Learning into Action");
         }
     }
 
-    const wizard = new CodeSorcerer();
-    wizard.castSpell();
+const bender = new Codebender();
+```
 
-
-
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRa5fw6VuLdzFYW4YEdJpRQAxU9feDGbYWjQ&usqp=CAU" alt="image"  width="700px">
+<div>
+<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRa5fw6VuLdzFYW4YEdJpRQAxU9feDGbYWjQ&usqp=CAU" alt="image" height="300px"  width="500px">
     
 
-<p>
-<img align="center" width="900px"  alt="[coding" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif)https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
-</p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
