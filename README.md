@@ -30,7 +30,7 @@ About Me 🫠
 * 🪄 I stay abreast of the latest cybersecurity trends and continuously enhance my knowledge to stay one step ahead of emerging risks. 
 * 😎 Committed to maintaining the highest ethical standards, I contribute to creating a secure and resilient digital landscape.
 * ❤️🧑🏿‍💻: Python and Php bender and learner
-* ⚡Fun fact: I always want to be a programmer and an ethical hacker 😌.
+* ⚡Fun fact: Python was not named after a snake.
 
 <h2>Wanna reach out to me ?</h2>
 
