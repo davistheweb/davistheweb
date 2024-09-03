@@ -31,7 +31,8 @@ About Me 🫠
 * 😎 Committed to maintaining the highest ethical standards, I contribute to creating a secure and resilient digital landscape.
 * ❤️🧑🏿‍💻: Python and Php bender and learner
 * ⚡Fun fact: Python was not named after a snake.
-
+* 
+<a href="https://wakatime.com/@018df943-1eee-46cd-aec5-e6602700c0ea"><img src="https://wakatime.com/badge/user/018df943-1eee-46cd-aec5-e6602700c0ea.svg" alt="Total time coded since Mar 1 2024" /></a>
 <h2>Wanna reach out to me ?</h2>
 
 📧 Mail: josiahdave001@gmail.com
