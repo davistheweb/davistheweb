@@ -22,7 +22,6 @@ About Me 🫠
 * 💻 I am dedicated to continuous learning, with a particular focus on mastering React.
 * 🪄 I have a solid foundation in various programming languages and frameworks, and my commitment to staying updated on industry trends is reflected in my ongoing pursuit of knowledge.
 * 👌 Proficient in developing scalable and efficient solutions.
-* ☄️ I leverage React to create dynamic and responsive user interfaces.
 * ❤️ My passion for innovation and adaptability allows me to contribute effectively to projects and embrace new challenges with enthusiasm.
 * 🔭 I am dedicated to fortifying digital environments by leveraging my skills in ethical hacking. With a proactive and analytical approach.
 * 🤓 I identify vulnerabilities and implement robust security measures.
