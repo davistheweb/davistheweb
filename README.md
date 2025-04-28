@@ -30,7 +30,11 @@ About Me 🫠
 * 😎 Committed to maintaining the highest ethical standards, I contribute to creating a secure and resilient digital landscape.
 * ❤️🧑🏿‍💻: Python and Php bender and learner
 * ⚡Fun fact: Python was not named after a snake.
+<div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donjne&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CA2F1)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 [![wakatime](https://wakatime.com/badge/user/018df943-1eee-46cd-aec5-e6602700c0ea.svg)](https://wakatime.com/@018df943-1eee-46cd-aec5-e6602700c0ea)
 
 <h2>Wanna reach out to me ?</h2>
