@@ -32,7 +32,7 @@ About Me 🫠
 * ⚡Fun fact: Python was not named after a snake.
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donjne&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CA2F1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davistheweb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CA2F1)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 [![wakatime](https://wakatime.com/badge/user/018df943-1eee-46cd-aec5-e6602700c0ea.svg)](https://wakatime.com/@018df943-1eee-46cd-aec5-e6602700c0ea)
